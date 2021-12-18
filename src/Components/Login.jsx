@@ -48,7 +48,7 @@ export default function Login() {
 
    const findUserFromToken = async (token) => {
     try {
-      let response = await fetch("http://localhost:3001/users/me", {
+      let response = await fetch(process.env.REACT_APP_BE_URL + `/users/me`, {
         method: "GET",
         headers: {
           Authorization: `${token}`,
