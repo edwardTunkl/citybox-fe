@@ -19,7 +19,7 @@ export default function Login() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      let response = await fetch(process.env.REACT_APP_BE_URL + `/users/login`, {
+      let response = await fetch(process.env.REACT_APP_BE_URL + `users/login`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(logIn),
