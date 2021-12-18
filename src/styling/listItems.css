@@ -1,0 +1,29 @@
+.list-container {
+  overflow-y: scroll;
+  border-radius: 5px;
+  border: 3px solid silver;
+  background-color: rgb(207, 253, 213);
+  height: 24rem;
+}
+.main-row{
+  font-weight: 700;
+  color: rgb(73, 73, 73);
+  text-decoration: underline;
+}
+.row-blue{
+  background-color: rgb(182, 224, 248);
+}
+.row-yellow {
+  background-color: rgb(243, 237, 157);
+}
+.row-green{
+  background-color: rgb(107, 243, 118);
+}
+.row-grey{
+  background-color: rgb(216, 219, 216);
+}
+.table-styling{
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 5px;
+  margin-top: 0.3rem;
+}

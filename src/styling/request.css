@@ -1,0 +1,27 @@
+.request-container {
+  width: 10rem;
+  height: 13rem;
+  margin-top: 5rem;
+}
+
+.request-icon {
+  width: 4rem;
+  border-radius: 10px;
+}
+.incoming {
+  font-size: 3rem;
+  width: 4rem;
+}
+.column {
+width: 3rem;
+}
+.request-text {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.sender-message{
+  width: 18rem
+}
+.button-placement{
+  margin-left: 14rem;
+}

@@ -1,0 +1,23 @@
+.back {
+  background-color: rgb(244, 255, 94);
+  height: 9rem;
+  width: 100%;
+  padding: 0rem;
+  margin: 0rem;
+  border-bottom: 5px solid black;
+}
+.text{
+  font-size: 3rem;
+  font-family:fantasy;
+  text-align: center;
+  margin-left: 6rem;
+  text-shadow: 2px 2px #abd12f;
+}
+.tree{
+  margin-left: 3.6rem;
+  margin-top: 3.2rem;
+}
+.door {
+  margin-top: 5.6rem;
+  margin-left: 1.3rem;
+}
