@@ -1,8 +1,9 @@
-Welcome to CityBox (FrontEnd)
+# Welcome to CityBox (FrontEnd)
 
-This App is designed for sharing everyday items with your friends, neighbours and your city in a quick and easy way :)
+This App is designed for sharing everyday items with your friends, neighbours 
+and your city in a quick and easy way :)
 
-# Getting Started with Create React App
+# Getting Started with Create React App wiw
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
