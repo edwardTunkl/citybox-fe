@@ -1,0 +1,29 @@
+#edit-container{
+  padding-top: 2rem;
+}
+
+#editAddress {
+  background-color: rgb(208, 252, 250);
+  width: 17rem;
+  border-radius: 5px;
+  border: 1px solid rgb(194, 193, 193);
+  padding: 1rem;
+  color: rgb(51, 51, 51);
+  padding-bottom: 0.4rem;
+  padding-top: 0.5rem;
+  box-shadow: 2px 4px #6b6b6b
+}
+#editSchedule {
+  background-color: rgb(202, 245, 243);
+  width: 17rem;
+  border-radius: 5px;
+  border: 1px solid rgb(194, 193, 193);
+  padding: 1rem;
+  color: rgb(51, 51, 51);
+  padding-bottom: 0.4rem;
+  padding-top: 0.4rem;
+  box-shadow: 2px 4px #6b6b6b
+}
+.text-address{
+font-weight: 600;
+}

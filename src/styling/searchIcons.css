@@ -1,0 +1,35 @@
+.icons {
+  border-radius: 5px;
+  width: 5rem;
+  height: 5rem;
+  margin: 1rem;
+  margin-left: 4rem;
+  box-shadow: 10px 10px 5px grey;
+}
+.icon-text {
+  font-family:fantasy;
+  font-size: 1.5rem;
+  margin-left: 4.4rem;
+}
+.icons-selected {
+  border-radius: 5px;
+  width: 4rem;
+  height: 4rem;
+  margin-top: 2rem;
+  margin-left: 3rem;
+  box-shadow: 10px 10px 5px grey;
+}
+.icon-text-selected {
+  font-family:fantasy;
+  font-size: 1.2rem;
+  margin-left: 3.4rem;
+  margin-top: 1rem;
+}
+.kitchenware {
+  width: 5rem;
+  margin-left: 2.3rem;
+}
+.wheelbarrow{
+  width: 5.5rem;
+ margin-left: 2rem;
+}
