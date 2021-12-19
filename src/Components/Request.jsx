@@ -66,12 +66,12 @@ export default function Request() {
     <>
       <div className="ml-5 request-container">
         <div className="mt-3">
-          <Button variant="success" onClick={handleClick}>
-            My Inventory
+          <Button variant="success" onClick={handleClick} size="lg" className="btn-default">
+            My Toolbox
           </Button>
         </div>
-        
-          <div className="d-flex mt-4">
+        <div className="mt-4 headline pl-3">Requests</div>
+          <div className="d-flex mt-1">
             <div className="mt-3">
               {myNewRequest.length > 0 ? <IncomingRequests /> : <div></div>}
             </div>

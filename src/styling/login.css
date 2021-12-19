@@ -19,8 +19,8 @@
 
 .log-in-btn.btn.btn-primary,
 .OAuth-btn.btn.btn-primary {
-  background-color: #009688;
-  border: solid 1px #009688;
+  background-color: rgb(161,192,87);
+  border: solid 1px rgb(161,192,87);
   width: 100%;
 }
 
@@ -31,6 +31,7 @@
 h1.loggin-header {
   text-align: center;
   font-size: 2rem;
+  font-family: fantasy;
 }
 
 a.link-register {
@@ -40,4 +41,7 @@ a.link-register {
 p.not-a-member-p,
 p.parag-login {
   text-align: center;
+}
+.cityBox{
+  color: rgb(161,192,87);
 }

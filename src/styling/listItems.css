@@ -11,13 +11,13 @@
   text-decoration: underline;
 }
 .row-blue{
-  background-color: rgb(182, 224, 248);
+  background-color: rgb(203, 233, 250);
 }
 .row-yellow {
-  background-color: rgb(243, 237, 157);
+  background-color: rgb(252, 235, 205);
 }
 .row-green{
-  background-color: rgb(107, 243, 118);
+  background-color: rgb(169, 252, 176);
 }
 .row-grey{
   background-color: rgb(216, 219, 216);
@@ -26,4 +26,7 @@
   border: 1px solid rgb(0, 0, 0);
   border-radius: 5px;
   margin-top: 0.3rem;
+}
+.border-table{
+  border: 1px solid black;
 }

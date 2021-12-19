@@ -1,5 +1,5 @@
 .request-row{
-  background-color: aqua;
+  background-color: rgb(173, 245, 227);
   border-radius: 5px;
   border: 2px solid black
 }
@@ -10,6 +10,6 @@
   width: 15rem
 }
 .request-icon {
-  width: 5rem;
- 
+  width: 3.5rem;
+  box-shadow: 10px 10px 5px grey;
 }

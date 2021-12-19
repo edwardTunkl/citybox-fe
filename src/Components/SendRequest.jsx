@@ -64,7 +64,7 @@ export default function SendRequest({ details }) {
 
       <Modal show={show} onHide={handleClose}>
         <Modal.Header>
-          <Modal.Title>Make your request</Modal.Title>
+          <Modal.Title className="ml-3">Make your request</Modal.Title>
         </Modal.Header>
         <Modal.Body>
       

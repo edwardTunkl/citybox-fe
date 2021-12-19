@@ -87,7 +87,7 @@ export default function IncomingRequests() {
       />
       <Modal show={show} onHide={handleClose} size="lg">
         <Modal.Header>
-          <Modal.Title>Incoming Requests</Modal.Title>
+          <Modal.Title className="ml-3">Incoming Requests</Modal.Title>
         </Modal.Header>
         <Modal.Body>
           <div>
@@ -103,7 +103,7 @@ export default function IncomingRequests() {
                     // }}
                   >
                     <div className="request-text ml-4 mt-2 d-flex">
-                      <div>{i.sender.name} has sent you a request!</div>
+                      <div className="ml-1">{i.sender.name} has sent you a request!</div>
                       <div className="button-placement mt-1">
                         <Button
                           variant="outline-success"

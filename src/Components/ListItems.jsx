@@ -46,7 +46,7 @@ export default function ListItems() {
               className={catColoring(i.category)}
               id="table-styling"
             >
-              <td>{i.category}</td>
+              <td >{i.category}</td>
               <td>{i.type}</td>
               <td>{i.model}</td>
               <td>{i.brand}</td>

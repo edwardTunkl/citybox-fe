@@ -38,10 +38,10 @@ export default function MyNeighbours() {
   return (
     <>
       
-      <div className="ml-5 mt-2">
+      <div className="ml-5 mt-1">
         {myNeighbours?.map((n) => (
           <div>
-            <div className="mt-4 mb-3 headline pl-3">My Neighbours</div>
+            <div className="mt-0 mb-3 headline pl-3">My Neighbours</div>
             <div className="d-flex ml-3">
             <FaUserFriends className="friendsIcon"/>
             <div className="neighbours ml-3">{n.name} </div>

@@ -1,6 +1,6 @@
 .request-icon {
-  width: 5rem;
- 
+  width: 3.5rem;
+  box-shadow: 10px 10px 5px grey;
 }
 .message-text{
   font-size: 1.2rem;

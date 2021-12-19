@@ -66,7 +66,8 @@ export default function Login() {
   return (
     <div className="loggin-cont">
       <div className="content-loggin-cont">
-        <h1 className="loggin-header py-4">LOGIN</h1>
+        
+        <h1 className="loggin-header py-4">Welcome to <span className="cityBox">City</span>Box!</h1>
         <Form
           onSubmit={(e) => {
             handleSubmit(e);
