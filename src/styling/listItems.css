@@ -5,28 +5,28 @@
   background-color: rgb(207, 253, 213);
   height: 24rem;
 }
-.main-row{
+.main-row {
   font-weight: 700;
   color: rgb(73, 73, 73);
   text-decoration: underline;
 }
-.row-blue{
+.row-blue {
   background-color: rgb(203, 233, 250);
 }
 .row-yellow {
   background-color: rgb(252, 235, 205);
 }
-.row-green{
+.row-green {
   background-color: rgb(169, 252, 176);
 }
-.row-grey{
+.row-grey {
   background-color: rgb(216, 219, 216);
 }
-.table-styling{
+.table-styling {
   border: 1px solid rgb(0, 0, 0);
   border-radius: 5px;
   margin-top: 0.3rem;
 }
-.border-table{
+.border-table { 
   border: 1px solid black;
 }
